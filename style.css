@@ -224,3 +224,9 @@
     width: 20rem;
     margin:.5rem;
 }
+.middle-box{
+    z-index:2 ;
+}
+.lower-box{
+    z-index:1 ;
+}
